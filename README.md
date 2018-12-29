@@ -15,7 +15,7 @@ import iEditor from 'iview-editor';
 
 // 使用 css
 import 'iview/dist/styles/iview.css';
-import 'iview-editor/dist/i-editor.css';
+import 'iview-editor/dist/iview-editor.css';
 
 // 使用插件
 Vue.use(iView);
